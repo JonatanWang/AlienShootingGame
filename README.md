@@ -1,2 +1,6 @@
 # AlienShootingGame
-Practice, demo, python, pygame
+A practice / demo of python & pygame
+
+Reference Python Crash Course
+
+https://ibb.co/NCZMfcm
